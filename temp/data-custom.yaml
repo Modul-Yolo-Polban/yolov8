@@ -1,0 +1,5 @@
+train: /home/bimad4/yolov8/dataset/data_face-body/train
+val: /home/bimad4/yolov8/dataset/data_face-body/val
+
+nc: 2
+names: ["face","body"]

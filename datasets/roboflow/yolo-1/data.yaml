@@ -1,0 +1,13 @@
+names:
+- face
+- person
+nc: 2
+roboflow:
+  license: MIT
+  project: yolo-fa0wn
+  url: https://universe.roboflow.com/modulyolopolban/yolo-fa0wn/dataset/1
+  version: 1
+  workspace: modulyolopolban
+test: /home/bimad4/yolov8/datasets/roboflow/yolo-1/test/images
+train: /home/bimad4/yolov8/datasets/roboflow/yolo-1/train/images
+val: /home/bimad4/yolov8/datasets/roboflow/yolo-1/valid/images

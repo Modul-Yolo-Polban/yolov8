@@ -1,0 +1,5 @@
+train: /home/bimad4/yolov8/dataset/labeled/train
+val: /home/bimad4/yolov8/dataset/labeled/validation
+
+nc: 1
+names: ["face"]
